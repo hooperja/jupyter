@@ -8,3 +8,6 @@ Bootstrapping the sample mean:
 
 Exponential Experiments (differential equations intro):
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hooperja/jupyter/master?filepath=Exponential_Experiments.ipynb)
+
+Analyzing Linear Patterns:
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hooperja/jupyter/master?filepath=U1%20Project%20-%20Analyzing%20Linear%20Patterns.ipynb)
